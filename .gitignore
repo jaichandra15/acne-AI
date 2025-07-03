@@ -1,6 +1,8 @@
 myenv
 __pycache__/
 *.png
+*.jpg
+*.webp
 *.pyc
 *.pyo
 *.pyd
