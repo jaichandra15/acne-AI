@@ -1,7 +1,0 @@
-streamlit
-flask
-langchain
-google-cloud-aiplatform
-google-cloud-documentai
-openai
-python-dotenv
